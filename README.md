@@ -10,3 +10,8 @@ Python 3.7
 
 ### 03-Data Types
 
+Python 3.7 basic types.
+
+### 05-Module
+
+Creating a simple Python module.
